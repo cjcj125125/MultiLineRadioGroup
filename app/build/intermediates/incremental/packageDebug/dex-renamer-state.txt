@@ -1,0 +1,4 @@
+#Mon Feb 06 13:49:54 CST 2017
+base.0=C\:\\Users\\Right\\Desktop\\MultiLineRadioGroup-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Right\\Desktop\\MultiLineRadioGroup-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
